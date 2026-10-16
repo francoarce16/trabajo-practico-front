@@ -1,15 +1,16 @@
 body { background-image: url(https://media.gettyimages.com/id/1551595837/es/vector/boceto-de-pizza-sin-costuras-sobre-fondo-negro.jpg?s=612x612&w=gi&k=20&c=WHgUo9CBH3k5J_9R6lGiDA-wNfhK4CGyI7_dTKpuZSE=);
-background-attachment: fixed;
+background-attachment: fixed;text-align: center;
 }
 
 
-h1 {color: #3ED6B5;}
+h1 {color: #3ED6B5;text-decoration: underline;}
 
 .verde{color: green;
 background-color: yellow; text-decoration: underline
 
 }
 .rojo{color: red;}
+
 .blanco{color: white;}
 
 h1 {
